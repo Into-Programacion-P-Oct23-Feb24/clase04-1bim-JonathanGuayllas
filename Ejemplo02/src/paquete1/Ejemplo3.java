@@ -52,7 +52,7 @@ public class Ejemplo3 {
         promedio = (notaAsignatura1 + notaAsignatura2 + notaAsignatura3)/3;
         
         System.out.printf("Asignatura 1: %s\nNota 1: %.2f\nAsignatura 2: %s\n "
-                + "Nota 2: %.2f\nAsignatura 3:%s\nNota 3: %.2f\nPromedio: %s\n "
+                + "Nota 2: %.2f\nAsignatura 3:%s\nNota 3: %.2f\nPromedio: %.2f\n "
                 + "Nombre de estudiante: %s\n",
                 nombreAsignatura1,
                 notaAsignatura1,
