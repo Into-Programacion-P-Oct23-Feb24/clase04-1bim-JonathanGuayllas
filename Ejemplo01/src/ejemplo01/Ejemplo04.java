@@ -10,7 +10,10 @@ package ejemplo01;
  * @author reroes
  */
 public class Ejemplo04 {
-    public static void main(String[] args) {
+    public static void main(String[] args) { /*
+        pritnln vs print
+        println crea un salto de línea al momento de leer el código, mientras que print no genera ese salto de línea
+        */
         String nombreEstudiante = "René Rolando";
         String apellidoEstudiante = "Elizalde Solano";
         int nacimiento = 1983;
